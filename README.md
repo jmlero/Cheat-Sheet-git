@@ -3,7 +3,7 @@ Git cheat sheet
 
 ### Checking your settings
 
-/home/user/.gitconfig
+`/home/user/.gitconfig´
 
-git config --list
+`git config --list´
 
