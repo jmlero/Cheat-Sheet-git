@@ -22,3 +22,22 @@ Git cheat sheet
 #### Ignoring Files
 
 `.gitignore`
+
+#### Committing Your Changes
+
+`git commit -a -v -m "Text"
+-a let skip git add
+-v add diff to the change
+-m add a message`
+
+#### Removing Files
+
+`git rm`
+
+
+
+
+
+
+
+
