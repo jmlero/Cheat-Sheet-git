@@ -1,7 +1,7 @@
 # Cheat-Sheet-git
 Git cheat sheet
 
-## Checking your settings
+### Checking your settings
 
 /home/user/.gitconfig
 
