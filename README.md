@@ -25,7 +25,7 @@ Git cheat sheet
 
 #### Committing Your Changes
 
-`git commit -a -v -m "Text"`
+`git commit -a -v -m "Text"` \\
 `-a let skip git add`
 `-v add diff to the change`
 `-m add a message`
