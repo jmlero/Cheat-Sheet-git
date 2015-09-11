@@ -34,6 +34,10 @@ Git cheat sheet
 
 `git rm`
 
+#### Moving Files
+
+`git mv file_from file_to`
+
 
 
 
