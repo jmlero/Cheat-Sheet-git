@@ -38,6 +38,11 @@ Git cheat sheet
 
 `git mv file_from file_to`
 
+#### Syncing a fork
+
+https://help.github.com/articles/syncing-a-fork
+
+
 
 
 
