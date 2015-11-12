@@ -41,6 +41,8 @@ Git cheat sheet
 #### Syncing a fork
 
 https://help.github.com/articles/syncing-a-fork
+http://stackoverflow.com/a/19506355
+
 
 
 
