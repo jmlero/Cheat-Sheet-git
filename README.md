@@ -38,6 +38,16 @@ Git cheat sheet
 
 `git mv file_from file_to`
 
+#### Push
+
+`git push -u origin master`
+`git push origin master`
+
+#### Branch
+
+`git branch origin master`
+`git checkout branch`
+
 #### Syncing a fork
 
 https://help.github.com/articles/syncing-a-fork
