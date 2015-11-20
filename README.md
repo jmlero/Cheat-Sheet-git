@@ -48,6 +48,11 @@ Git cheat sheet
 `git branch origin master`
 `git checkout branch`
 
+`git merge branch`
+
+`git branch -d clean_up` (delete a branch)
+
+
 #### Syncing a fork
 
 https://help.github.com/articles/syncing-a-fork
