@@ -45,8 +45,10 @@ Git cheat sheet
 
 #### Branch
 
-`git branch origin master`
-`git checkout branch`
+`git branch dev`
+
+`git checkout dev`
+
 
 `git merge branch`
 
